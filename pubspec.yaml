@@ -11,8 +11,8 @@ dependencies:
     sdk: flutter
 
   firebase_core: ^1.0.0
-  firebase_storage: ^8.0.0
-  sqflite: ^2.0.0+2
+  firebase_storage: ^10.2.4
+  sqflite: ^1.1.6+5 #^2.0.0+2
   path: ^1.8.0
   path_provider: ^2.0.1
 
